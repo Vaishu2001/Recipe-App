@@ -18,6 +18,6 @@ Here I have created a food recipe application using React JS. By doing this proj
 
 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+
 
